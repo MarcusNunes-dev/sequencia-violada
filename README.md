@@ -41,11 +41,6 @@ SequenciaViolada/
 │ └── ConsultaSequencia.sql
 ├── README.md
 └── ExemploRelatorio/
-└── ColigadaX_Sequencia_2025-05.xlsx
-
-markdown
-Copiar
-Editar
 
 ## ✅ Resultados
 
@@ -60,7 +55,7 @@ Editar
 
 - ## 👤 Autor
 
-**Marcus Vinícius da Silva Nunes**  
+**Marcus Vinicius da Silva Nunes**  
 Analista de Departamento Pessoal em transição para a área de Tecnologia.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-da-silva-nunes-01b784125/)

@@ -57,3 +57,10 @@ Editar
 - Adicionar testes automatizados para as funções VBA.
 - Exportar também para PDF.
 - Interface de execução via formulário no Excel.
+
+- ## 👤 Autor
+
+**Marcus Vinícius da Silva Nunes**  
+Analista de Departamento Pessoal em transição para a área de Tecnologia.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-da-silva-nunes-01b784125/)

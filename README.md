@@ -1,6 +1,6 @@
 # Sequência Violada - Automação de Controle de Dias Trabalhados Consecutivos
 
-## 📌 Descrição
+## Descrição
 
 Este projeto tem como objetivo automatizar o processo de geração de relatórios de colaboradores que trabalharam em sequência de dias sem descanso, substituindo controles manuais em Excel por um processo automatizado em **VBA** e **SQL**, com integração à **API do TOTVS RM**.
 
@@ -11,14 +11,14 @@ A automação gera, para cada coligada:
 - Um **Gráfico** baseado nos dados da sequência.
 - Um arquivo `.xlsx` salvo automaticamente em uma pasta nomeada com a coligada e período.
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **VBA (Visual Basic for Applications)**: automação das etapas.
 - **SQL (TOTVS / RM Reports)**: estruturação das consultas.
 - **Excel**: geração dos relatórios.
 - **API TOTVS RM**: fonte dos dados.
 
-## 🧠 Lógica da Automação
+## Lógica da Automação
 
 1. Um módulo VBA (`Painel`) executa a extração para todas as coligadas configuradas.
 2. A Sub `Extrair_API_Nova` realiza:
@@ -32,7 +32,7 @@ A automação gera, para cada coligada:
    - `Alerta`: 7 a 14 dias
    - `Crítico`: 15 dias ou mais
 
-## 📁 Estrutura dos Arquivos
+## Estrutura dos Arquivos
 
 SequenciaViolada/
 ├── VBA/
@@ -42,20 +42,20 @@ SequenciaViolada/
 ├── README.md
 └── ExemploRelatorio/
 
-## ✅ Resultados
+## Resultados
 
 - Redução de **3 a 5 horas** de trabalho manual por mês para cerca de **5 minutos**.
 - Arquivos gerados automaticamente com dados confiáveis e formatados.
 
-## 🚧 Futuras Melhorias
+## Futuras Melhorias
 
 - Adicionar testes automatizados para as funções VBA.
 - Exportar também para PDF.
 - Interface de execução via formulário no Excel.
 
-- ## 👤 Autor
+- ## Autor
 
 **Marcus Vinicius da Silva Nunes**  
 Analista de Departamento Pessoal em transição para a área de Tecnologia.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-nunes/)
+- [LinkedIn](https://www.linkedin.com/in/marcus-vinicius-nunes/)
